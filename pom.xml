@@ -16,7 +16,7 @@
         <selenium.java.version>4.3.0</selenium.java.version>
         <testng.version>7.6.1</testng.version>
         <webdrivermanager.version>5.2.1</webdrivermanager.version>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.15.1</commons-io.version>
         <log4jcore.version>2.18.0</log4jcore.version>
         <log4japi.version>2.18.0</log4japi.version>
         <orgjson.version>20220320</orgjson.version>
